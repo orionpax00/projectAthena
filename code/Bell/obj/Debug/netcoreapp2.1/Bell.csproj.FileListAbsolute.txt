@@ -1,0 +1,11 @@
+C:\Users\durge\Desktop\quantum\Bell\bin\Debug\netcoreapp2.1\Bell.deps.json
+C:\Users\durge\Desktop\quantum\Bell\bin\Debug\netcoreapp2.1\Bell.runtimeconfig.json
+C:\Users\durge\Desktop\quantum\Bell\bin\Debug\netcoreapp2.1\Bell.runtimeconfig.dev.json
+C:\Users\durge\Desktop\quantum\Bell\bin\Debug\netcoreapp2.1\Bell.dll
+C:\Users\durge\Desktop\quantum\Bell\bin\Debug\netcoreapp2.1\Bell.pdb
+C:\Users\durge\Desktop\quantum\Bell\obj\Debug\netcoreapp2.1\Bell.csprojAssemblyReference.cache
+C:\Users\durge\Desktop\quantum\Bell\obj\Debug\netcoreapp2.1\Bell.csproj.CoreCompileInputs.cache
+C:\Users\durge\Desktop\quantum\Bell\obj\Debug\netcoreapp2.1\Bell.AssemblyInfoInputs.cache
+C:\Users\durge\Desktop\quantum\Bell\obj\Debug\netcoreapp2.1\Bell.AssemblyInfo.cs
+C:\Users\durge\Desktop\quantum\Bell\obj\Debug\netcoreapp2.1\Bell.dll
+C:\Users\durge\Desktop\quantum\Bell\obj\Debug\netcoreapp2.1\Bell.pdb
