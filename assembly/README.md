@@ -1,5 +1,5 @@
 # Assembly Language
-
+This directory contain basic and some advanced assembly code.
 
 ## Machine and compiler
 
