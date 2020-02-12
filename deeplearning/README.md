@@ -1,3 +1,3 @@
 # Deep Learning
 
-This directory contains some resource about deep learning
+This directory contains deep learning resource. 
