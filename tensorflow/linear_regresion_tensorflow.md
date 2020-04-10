@@ -2,7 +2,8 @@
 
 ### Mathematics
 
-$$F(x) = \int^a_b \frac{1}{3}x^3$$
+
+$$Y = mX + c$$
 
 ### Implementation
 * Initializing all variables and getting data ready
@@ -41,3 +42,5 @@ $$F(x) = \int^a_b \frac{1}{3}x^3$$
         cost1 = sess.run(cost, feed_dict={x:X, y:Y})
         print(w1, b1, cost1)
   ```
+* Evaluation and Investigation
+  Use tensorboard to display variable changes and model, that is tf.summary methods.

@@ -63,3 +63,5 @@
       summary_2 = sess.run(weight_summary)
       writer.add_summary(summary_2, counter)
   ```
+
+  Dynamic Visulization of summary variables that is viewing there values mention the computation is running. Run tensorboard in the log directory it will automatically update plots in browser window.
